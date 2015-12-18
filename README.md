@@ -14,5 +14,5 @@
 
 
 ##作业展示
-![1](http://7xpbib.com1.z0.glb.clouddn.com/image%3Fname=FullSizeRender%202.jpg)
-![2](http://7xpbib.com1.z0.glb.clouddn.com/image%3Fname=IMG_0038.JPG)
+![1](http://7xpbib.com1.z0.glb.clouddn.com/image%3Fname=FullSizeRender%202.jpg-cp2)
+![2](http://7xpbib.com1.z0.glb.clouddn.com/image%3Fname=IMG_0038.JPG-cp2)
